@@ -5,12 +5,13 @@
 mkdir -p ~/src ~/txt
 
 ./brew.sh
+./cask.sh
 ./osx.sh
 ./python.sh
 
 # install .vim with all the plugins
 git submodule update --init --recursive
-. ./.vim/install.sh
+./.vim/install.sh
 
 ln -S ~/.zshrc .zshrc
 ln -S ~/.gitconfig .gitconfig
