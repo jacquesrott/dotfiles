@@ -8,7 +8,7 @@ My personal dotfiles for OSX.
 Run the following command :
 
 ```
-. ./install.sh
+./install.sh
 ```
 
 ## Additional downaloads
