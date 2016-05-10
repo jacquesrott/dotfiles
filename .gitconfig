@@ -7,4 +7,4 @@
 	diff = diff-so-fancy | less --tabs=4 -R
 	show = diff-so-fancy | less --tabs=4 -R
 [core]
-	excludesfile = /Users/jacques/.gitignore
+	excludesfile = ~/.gitignore
