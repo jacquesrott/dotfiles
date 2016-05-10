@@ -28,7 +28,6 @@ brew install libpng
 brew install tccutil
 brew install go
 brew install jpeg
-brew install sass
 brew install xz
 brew install brew-gem
 brew install gist
