@@ -11,5 +11,6 @@ brew cask install slack
 brew cask install spotify
 brew cask install firefox
 brew cask install flux
+brew cask install the-unarchiver
 
 brew cask cleanup
