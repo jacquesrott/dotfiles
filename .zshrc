@@ -25,6 +25,9 @@ export GOROOT=/usr/local/opt/go/libexec
 export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:$GOROOT/bin
 
+export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.5/bin
+
 export MANPAGER="/bin/sh -c \"col -xb | vim -c 'set ft=man' -R -\""
 
 source $ZSH/oh-my-zsh.sh
+export PATH="/usr/local/sbin:$PATH"
